@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [sebastianparias.github.io](sebastianparias.github.io)
+- 👨‍💻 All of my projects are available at [sebastianparias.github.io](https://sebastianparias.github.io/)
 
 - 💬 Ask me about **Vue, HTML, CSS Javascript, Laravel**
 
